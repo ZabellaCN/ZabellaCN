@@ -2,6 +2,7 @@
 
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
 - 😄 Pronome: Ela/Dela...
+- Estudando Banco de Dados e em breve iniciar a formação em SQL Server da ORACLE
 
 <div align="center">
   <a href="https://github.com/ZabellaCN">
