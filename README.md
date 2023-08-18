@@ -2,7 +2,7 @@
 
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
 - 😄 Pronome: Ela/Dela...
-- Estudando a formação JavaScript para Back End pela alura
+- Em formação para DBA SQL SERVER
 
 <div align="center">
   <a href="https://github.com/ZabellaCN">
