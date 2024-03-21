@@ -1,6 +1,5 @@
 ### Oi, Meu nome é Isabella 👋
 
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
 - 😄 Pronome: Ela/Dela...
 - Em formação para DBA SQL SERVER
 
